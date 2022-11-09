@@ -74,7 +74,7 @@ def compute_data_choice_2(df):
 app.layout = html.Div(children=[ 
                                 # TASK1: Add title to the dashboard
                                 html.H1('US Domestic Airline Flights Performance',
-                                        style={'text-align-last':'centre','color':'#503D36','font-size':24}
+                                        style={'text-align-last':'center','color':'#503D36','font-size':24}
                                         ),
     
                                 # REVIEW2: Dropdown creation
